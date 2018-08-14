@@ -1,0 +1,4 @@
+.sonarlint
+venv
+virtualenv
+web.zip
